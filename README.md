@@ -10,7 +10,6 @@
 
 ## 🔗 Links da Entrega
 - **Azure Boards (Plano de Testes – Parte A):** (https://dev.azure.com/RM98667/Sprint%202%20-%20QA)
-- **Vídeo da Automação (Parte B):** <link_do_loom/drive/youtube>
 - **Relatório de execução (Newman):** `docs/automation-report/index.html` 
 
 ## 🧩 Parte A – Plano de Testes no Azure Boards
